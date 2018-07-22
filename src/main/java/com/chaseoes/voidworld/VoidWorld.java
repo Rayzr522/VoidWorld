@@ -34,6 +34,10 @@ public class VoidWorld extends JavaPlugin {
             return new Location(world, 0, 128, 0);
         }
 
+        @Override
+        public ChunkData generateChunkData(World world, Random random, int x, int z, BiomeGrid biome) {
+            return createChunkData(world);
+        }
     }
 
 }
