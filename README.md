@@ -2,7 +2,7 @@
 
 > A simple plugin that generates a completely empty, void world.
 
-This is an updated version of [@chaseoes](https://github.com/chaseoes) [VoidWorld](https://www.spigotmc.org/resources/voidworld.29807/) plugin. It now supports 1.13.
+This is an updated version of [@chaseoes's](https://github.com/chaseoes) [VoidWorld](https://www.spigotmc.org/resources/voidworld.29807/) plugin. It now supports 1.13.
 
 ## Installation
 
